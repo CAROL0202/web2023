@@ -8,7 +8,7 @@ body {
 	margin: 0 auto;
 	width: 800px;
 	padding: 0;
-	background: #7a2122 url('back_all.jpg') repeat-x top;
+	background: #630102 url('../images/body_bg.gif') repeat-x top;
 	font-family: Helvetica, sans-serif;
 	font-size: 62.5%;
 	color: #333;
@@ -84,7 +84,7 @@ the layout
 	margin: 0 auto;
 	padding: 10px;
 	width: 780px;
-	background: #fff;
+	background: #ffffff;
 	border: 10px solid #5c0505;
 }
 
@@ -97,7 +97,7 @@ the layout
 	margin: 10px 0 0 0;
 	padding: 10px;
 	text-align: center;
-	background: url('../images/tagline_bg.gif') repeat-x;
+	background: url('../image/tagline_bg.gif') repeat-x;
 }
 
 #content, #sidebar {
