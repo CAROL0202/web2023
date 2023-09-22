@@ -97,7 +97,7 @@ the layout
 	margin: 10px 0 0 0;
 	padding: 10px;
 	text-align: center;
-	background: url('../images/tagline_bg.gif') repeat-x;
+	background: url('../image/tagline_bg.gif') repeat-x;
 }
 
 #content, #sidebar {
