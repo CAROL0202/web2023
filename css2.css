@@ -14,47 +14,62 @@ p {
 }
 
 
+
 #title {
 
     color: #fff;
     float: right;
     height: 100px;
+    margin: 0px 20px 0px 00px;
 }
 
 #title h1 {
     float: right;
-
+    margin: 10px 0px 0 0;
+    font-size: 3.5em;
 }
 
 #title p {
     float: right;
-    font-size: 15%;
+    margin: 10px 0px 0 500px;
+    font-size: 0.1em;
+
 }
 
 #header {
-    float: right;
+
+    text-align: center;
     font-size: 1.4em;
+    margin: 0px 0px 00px 0px;
+    word-spacing: 40px;
+    background: linear-gradient(#d82b00, #772810, rgb(255, 95, 15));
+    border: 2px solid #fff;
+    border-radius: 10px;
+
 
 }
 
 #header li {
     display: inline;
+    font-size: 2em;
+    color: #fff;
+    margin: 0px 0px 0px 00px;
 
 }
 
 #artical {
     clear: both;
-    margin: 0 auto;
+    margin: 20px 0 0 0;
     padding: 10px;
-    width: 780px;
+    width: 800px;
     background: #ffffff;
     border-radius: 10px;
     border: 2px solid #171717;
 }
 
-#main{
-color: #fff;
-background-color: #d34905;
-border-radius: 10px;
-line-height: 2em;
+#main {
+    color: #fff;
+    background-color: #d34905;
+    border-radius: 10px;
+    line-height: 2em;
 }

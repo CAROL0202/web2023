@@ -57,7 +57,7 @@ span.amp {
  
 #nav li {
 	display: inline;
-	margin: 0 0 0 20px;
+	margin: 0 0 0 10px;
 }
 
 #nav li a {
@@ -151,7 +151,7 @@ the layout
 	background: #eee;
 	padding: 10px;
 	border-top: 2px solid #ddd;
-	text-align: center;
+	text-align: center; 
 	color: #777;
 }
   
