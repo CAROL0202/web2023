@@ -52,11 +52,13 @@ span.amp {
 	float: right;
 	margin: 50px 10px 0 0;
 	font-size: 1.4em;
+	background: linear-gradient(#d82b00, #772810, rgb(255, 95, 15));
 }
 
  
 #nav li {
 	display: inline;
+	
 	margin: 0 0 0 10px;
 }
 
@@ -71,7 +73,7 @@ span.amp {
 }
  
 #nav li a:visited {
-	color: #ff0000;
+	color: #2600ff;
 	 
 }
 /*
