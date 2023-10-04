@@ -68,7 +68,8 @@ p {
 
 }
 
-#list a {
+#a {
+
 
     a:hover {
         color: rgb(252, 164, 0);
@@ -77,7 +78,6 @@ p {
     a:visited {
         color: rgb(255, 255, 255);
     }
-
 
 }
 
