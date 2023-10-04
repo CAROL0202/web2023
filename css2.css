@@ -3,10 +3,12 @@ body {
     width: 800px;
 
     padding: 0;
-    background: #0c0000 url('../imghw/back_all.jpg') repeat-y top ;
+    background: #0c0000 url('../imghw/back_all.jpg') repeat-y top;
     font-family: Arial, sans-serif;
     font-size: 62.5%
 }
+
+
 
 p {
     font-size: 1.4em;
@@ -20,7 +22,7 @@ p {
 
     color: #fff;
     float: left;
-    margin: 20px 20px 0px 00px;
+    margin: 20px 0px 0px 00px;
 }
 
 #header h1 {
@@ -51,6 +53,7 @@ p {
     width: 800px;
     word-spacing: 60px;
 
+
 }
 
 
@@ -65,9 +68,22 @@ p {
 
 }
 
+#list a {
+
+    a:hover {
+        color: rgb(252, 164, 0);
+    }
+
+    a:visited {
+        color: rgb(255, 255, 255);
+    }
+
+
+}
+
 #artical {
     clear: both;
-    margin: 20px 0px 0 0;
+    margin: auto;
     background: #fff;
     border-radius: 10px;
     height: 1650px;
@@ -130,13 +146,23 @@ p {
     padding: .1px 0px .1px 15px;
     font-size: 10px;
     border-radius: 10px;
-    margin: 0px 0px 3px 0px;
+    margin: -45px 0px 3px 0px;
 }
 
 #barcontent {
-    font-size: 150%;
-    background-image: linear-gradient(to top, #fff 60%, rgb(255, 132, 87));
-    line-height: 180%;
-    padding: 10px 0px 0px 0px;
+
+    background-image: linear-gradient(to top, #fff 80%, rgb(255, 132, 87));
+    margin: 0px 0px 0px 0px;
     border-radius: 10px;
+    padding: 0px 0px 60px 15px;
+
+}
+
+#barcontent ul {
+    list-style-type: none;
+    line-height: 180%;
+    font-size: 20px;
+    height: auto;
+    display: inline;
+
 }
