@@ -61,25 +61,22 @@ p {
 #list li {
     text-align: center;
     display: inline;
-    color: #fff;
     font-size: 2em;
     padding: 0 10px 0 0px;
 
 
 }
 
-#a {
+#list ul a:hover {
 
-
-    a:hover {
-        color: rgb(252, 164, 0);
-    }
-
-    a:visited {
-        color: rgb(255, 255, 255);
-    }
-
+    color: rgb(85, 230, 255);
 }
+
+#list ul a:link {
+
+    color: #fff;
+}
+
 
 #artical {
     clear: both;
@@ -111,7 +108,7 @@ p {
 }
 
 #contentitle {
-    background-color: #f85e11;
+    background:repeating-linear-gradient(-45deg, #f85e11 20%, #c93900 25%, #f85e11 30%);
     width: 500px;
     padding: 0px 5px 0px 10px;
     color: #fff;
@@ -141,7 +138,7 @@ p {
 }
 
 #sidebartitle {
-    background-color: #f85e11;
+    background:repeating-linear-gradient(-45deg, #f85e11 20%, #c93900 25%, #f85e11 30%);
     color: #fff;
     padding: .1px 0px .1px 15px;
     font-size: 10px;
